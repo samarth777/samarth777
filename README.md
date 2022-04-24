@@ -9,7 +9,7 @@ Develepor | Artist | Astrophile
 * ✉️  You can contact me at [sam1234arth@gmail.com](mailto:sam1234arth@gmail.com)
 * 🚀  I'm currently working on [Handwriter -Convert Text ino Handwriting Easily](http://handwriter.in)
 * 🧠  I'm learning Android App Development, JavaScript and C++
-* 🤝  I'm open to collaborating on any kind of innovative oroduct idea
+* 🤝  I'm open to collaborating on any kind of innovative product idea
 
 ### Skills
 
