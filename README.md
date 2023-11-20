@@ -1,7 +1,7 @@
 Hi, I am Samarth
 ==========================
 
-Develepor | Artist | Astrophile
+ARTIST | DEVELOPER | ASTROPHILE
 -------------------------------
 
 I like to build stuff.
