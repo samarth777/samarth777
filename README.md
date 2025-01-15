@@ -1,7 +1,7 @@
 Hi, I am Samarth
 ==========================
 
-ARTIST | DEVELOPER | ASTROPHILE
+LEARN | BUILD | REPEAT
 -------------------------------
 
 I like to build stuff.
